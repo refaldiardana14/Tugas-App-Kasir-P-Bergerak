@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppKasir</string>
+    <string name="total">Total Pembayaran</string>
+    <string-array name="barang">
+        <item>Token</item>
+        <item>Pulsa</item>
+        <item>Emoney</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
